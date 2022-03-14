@@ -1,0 +1,7 @@
+1. What is the offset of the section header table? 4412
+2. How many section headers/entries are there? 29
+3. What is the offset of the string table? 00104b
+4. What is the offset of the function main? The address of the text section is 080483B0 and the address of the main function is 08048464.
+is means that the sub between them is 180 (B4 in hex). We need to add B4 to the offset of text in order to get the offset of main. It will be 464 (in hex).
+5. What is the size of the function main? 175
+6. which section does the main belong to? The text section. 

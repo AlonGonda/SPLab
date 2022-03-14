@@ -1,0 +1,11 @@
+How many parameters does this function have?
+The function gets only one parameter as a array of chars AKA a string. 
+
+What does this function return?
+The function returns a string lenght.
+
+How many local variables are used by this function?
+There are zero local variables. There is no decleration of any variable in the data section and all operation are on the registers. 
+
+Is there a function in the C standard library which is the counterpart of this function?
+Yes. The function is calld srnlen.

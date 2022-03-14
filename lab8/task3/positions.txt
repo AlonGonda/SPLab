@@ -1,0 +1,11 @@
+position of fib at the student file:
+address of fib - address of text + offst text = 65D
+
+size of fib at student:
+122
+
+position of fib at the new file:
+address of fib - address of text + offst text = 64D
+
+size of fib at the new file:
+106

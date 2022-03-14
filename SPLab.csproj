@@ -7,4 +7,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="lab1\.vs\ProjectSettings.json" />
+    <Content Include="lab1\.vs\VSWorkspaceState.json" />
+    <Content Include="lab7\.vscode\settings.json" />
+    <Content Include="lab2\.vs\ProjectSettings.json" />
+    <Content Include="lab2\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="lab1\.vs\lab1\v17\Browse.VC.db" />
+    <None Include="lab1\.vs\slnx.sqlite" />
+    <None Include="lab2\.vs\lab2\v17\Browse.VC.db" />
+    <None Include="lab2\.vs\slnx.sqlite" />
+  </ItemGroup>
+
 </Project>
